@@ -1,1 +1,1 @@
-# Solutions to tasks on AirBnB clone - Web framework
+# AirBnB clone - Web framework Project 0x04
